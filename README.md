@@ -1,2 +1,3 @@
-# hyper-booking-system-y5ci
-Automated issue comment bot repository
+# Hyper Booking System Y5Ci
+
+Automated issue comment bot repository.
